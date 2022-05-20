@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-logicalprograms.fibonacci fibonacci = new logicalprograms.fibonacci();
-fibonacci.FibonacciSeries();
+logicalprograms.primenumber value = new logicalprograms.primenumber();
+value.prime();

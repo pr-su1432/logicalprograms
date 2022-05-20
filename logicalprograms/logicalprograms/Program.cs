@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-logicalprograms.fibonacci value = new logicalprograms.fibonacci();
+logicalprograms.fibonacseries value = new logicalprograms.fibonacseries();
 value.number();
